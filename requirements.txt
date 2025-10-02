@@ -1,0 +1,8 @@
+streamlit
+pydantic
+sentence-transformers
+numpy
+scikit-learn
+openai
+pytest
+pytest-asyncio
